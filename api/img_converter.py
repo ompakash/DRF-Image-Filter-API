@@ -1,5 +1,4 @@
 import cv2
-import uuid
 from django.conf import settings
 import os
 
